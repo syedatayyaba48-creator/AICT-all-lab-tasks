@@ -1,19 +1,19 @@
 .nav
 {
-    width: 250px;
+    width: 200px;
     height: auto;
     position: absolute;
-    top: 2%;
-    left:0px;
+    top: 5%;
+    left:10px;
 }
 .nav a
 {
-    width: 250px;
-    height: 80px;
+    width: 180px;
+    height: 70px;
     margin: 5px 0;
     float: left;
     display: inline-block;
-    background-color: black;
+    background-color: rgba(244, 242, 242, 0.233);
     overflow: hidden;
     font-family: verdana;
     text-decoration: none;
@@ -25,13 +25,13 @@
 }
 header
 {
-    color:rgb(116, 116, 174);
+    color:rgb(22, 86, 3);
     text-align: center;    
     margin: 100px;
 }
 body
 {
-    background-image: url("background.jpg");
     background-size: cover;
-    padding: 3px;
+    padding: 99px;
+    background-color: aqua;
 }
