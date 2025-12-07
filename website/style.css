@@ -1,0 +1,37 @@
+.nav
+{
+    width: 250px;
+    height: auto;
+    position: absolute;
+    top: 2%;
+    left:0px;
+}
+.nav a
+{
+    width: 250px;
+    height: 80px;
+    margin: 5px 0;
+    float: left;
+    display: inline-block;
+    background-color: black;
+    overflow: hidden;
+    font-family: verdana;
+    text-decoration: none;
+    font-size: 22px;
+    margin-top: 5px;
+    text-align: center;
+    line-height: 80px;
+    color: white;
+}
+header
+{
+    color:rgb(116, 116, 174);
+    text-align: center;    
+    margin: 100px;
+}
+body
+{
+    background-image: url("background.jpg");
+    background-size: cover;
+    padding: 3px;
+}
